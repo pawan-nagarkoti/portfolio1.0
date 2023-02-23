@@ -1,0 +1,13 @@
+.contact__wraper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin: 4rem auto 2rem auto;
+}
+.contact__icons {
+    font-size: 2rem;
+    color: var(--title-color);
+    margin-bottom: var(--mb-0-5);
+}
